@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RabbitMQ_Demo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RabbitMQ_Username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">admin@123</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5672</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_Fanout_ExcName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Fanout_ExcName_Demo</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_Fanout_QueueName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Fanout_qName_Demo</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_HostName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="RabbitMQ_Direct_ExcName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Direct_ExcName_Demo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
