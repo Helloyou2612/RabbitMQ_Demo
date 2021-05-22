@@ -22,3 +22,6 @@ packages/RabbitMQ.Client.5.2.0/lib/netstandard1.5/RabbitMQ.Client.xml
 packages/RabbitMQ.Client.5.2.0/lib/netstandard2.0/RabbitMQ.Client.dll
 packages/RabbitMQ.Client.5.2.0/lib/netstandard2.0/RabbitMQ.Client.pdb
 packages/RabbitMQ.Client.5.2.0/lib/netstandard2.0/RabbitMQ.Client.xml
+/RabbitMQ-Demo/obj
+/RabbitMQ-Demo/bin
+/packages
